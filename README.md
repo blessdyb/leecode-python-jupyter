@@ -1,10 +1,11 @@
 # LeeCode Python3
 
 ## String
- * 6.   ZigZag Conversion
+ * 6.    ZigZag Conversion
+ * 13.   Roman to Integer
 
 ## DynamicProgramming
- * 
+ * 70.   Climbing Stairs
 
 ## Two and Three Sum
  * 1.    Two Sum
