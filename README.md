@@ -13,9 +13,19 @@
  * (16.)   3Sum Closest
  * (923.)  3Sum With Multiplicity
 
+## Search
+ * (278.)  Find the first bad version
+## Stack
+ * (20.)   Valid Parentheses
+
 ## Remove Sorted Array Elements - Two Pointers
  * (26.)   Remove Duplicates from Sorted Array  
  * (27.)   Remove Element
+## Math
+ * (66.)   Plus One
+## SQL Related
+ * (196.)  Delete Duplicate Emails
+
 
 
 
