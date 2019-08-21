@@ -33,16 +33,19 @@ Some tricks to speed up your algorithms
  * (383.)  Ransom Note
  
 ## Sort
+ * (1051.) Height Checker
  * (1122.) Relative Sort Array
 
 ## Stack
  * (20.)   Valid Parentheses
+ * (1047.) Remove All Adjacent Duplicates in Array
 
 ## Pointers
  * (83.)   Remove Duplicates from Sorted List
  * (203.)  Remove Linked List Elements
  * (237.)  Delete Node in A Linked List
  * (283.)  Move Zeros
+ * (1089.) Duplicate Zeros
  
 ## Remove Sorted Array Elements - Two Pointers
  * (26.)   Remove Duplicates from Sorted Array  
